@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/FeedbackOptions/FeedbackOptions.module.css"],"names":[],"mappings":"AAAA,+BACE,gBACF,CAEA,4CACE,wBACF","file":"main.5b1a6cd3.chunk.css","sourcesContent":[".button {\n  margin-left: 10px;\n}\n\n.button::first-letter {\n  text-transform: uppercase;\n}\n"]}

@@ -1,0 +1,7 @@
+.button {
+  margin-left: 10px;
+}
+
+.button::first-letter {
+  text-transform: uppercase;
+}
